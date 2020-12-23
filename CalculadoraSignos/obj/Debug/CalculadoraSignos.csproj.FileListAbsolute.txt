@@ -1,0 +1,7 @@
+C:\Users\f045632\source\repos\CalculadoraSignos\CalculadoraSignos\bin\Debug\CalculadoraSignos.exe.config
+C:\Users\f045632\source\repos\CalculadoraSignos\CalculadoraSignos\bin\Debug\CalculadoraSignos.exe
+C:\Users\f045632\source\repos\CalculadoraSignos\CalculadoraSignos\bin\Debug\CalculadoraSignos.pdb
+C:\Users\f045632\source\repos\CalculadoraSignos\CalculadoraSignos\obj\Debug\CalculadoraSignos.csproj.CoreCompileInputs.cache
+C:\Users\f045632\source\repos\CalculadoraSignos\CalculadoraSignos\obj\Debug\CalculadoraSignos.exe
+C:\Users\f045632\source\repos\CalculadoraSignos\CalculadoraSignos\obj\Debug\CalculadoraSignos.pdb
+C:\Users\f045632\source\repos\CalculadoraSignos\CalculadoraSignos\obj\Debug\CalculadoraSignos.csprojAssemblyReference.cache
